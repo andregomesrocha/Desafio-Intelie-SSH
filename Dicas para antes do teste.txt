@@ -1,0 +1,28 @@
+ip Rocha 192.168.132.128  Client
+Ip gomes 192.168.132.129  Server A
+IP andre 192.168.132.130  Server B
+
+systemctl status openssh-client
+sudo apt install openssh-server
+
+
+
+Dicas: Desafio Intelie SSH:
+Antes de começar crie 2 ou 3 VM'no meu caso criei 3 com o softure " VMWare": 
+iP Rocha 192.168.132.128 Client
+Ip gomes 192.168.132.129 Server A
+IP andre 192.168.132.130 Server B
+
+2.168.132.130
+rocha@ubuntu:~$   -L  8000:0:8000:0 L
+
+Como fazer o Jump
+ -J gomes@192.168.132.129 rocha@192.168.132.128
+
+ ssh -J gomes@192.168.132.129 rocha@192.168.132.128 -L 0:8000:0:8000
+
+
+
+
+
+ 
