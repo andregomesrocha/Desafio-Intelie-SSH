@@ -38,11 +38,11 @@ Step 9 - access the server configuration (NGINX) on the terminal
 
 ![image](https://user-images.githubusercontent.com/84783787/147372470-16354a65-796b-4117-bca2-be9f0f6fffe6.png)
 
-Step 10 - How to do the Jump command
+Step 10 - How do the Jump command
 
 ![image](https://user-images.githubusercontent.com/84783787/147372503-405ede58-c13a-4ffe-95fa-247b298c94e2.png)
 
-Step 11 - How to redirect to port 8000
+Step 11 - How redirect to port 8000
 
 ![image](https://user-images.githubusercontent.com/84783787/147372567-ad90a50b-5ff9-46a2-bf88-efaf35ee9a82.png)
 
