@@ -16,6 +16,7 @@ Step 3 - Install Firewall
 ![image](https://user-images.githubusercontent.com/84783787/147372150-26b82239-cbe6-4995-98e8-bd965b24ba86.png)
 
 Step 4 - Check if Firewall is active
+
 ![image](https://user-images.githubusercontent.com/84783787/147383466-43eefcab-86ae-47f3-892a-35e63868f753.png)
 
 Step 5 - Check Server Status
@@ -28,7 +29,7 @@ Step 6 - Check the IP address
 
 Step 7- Check if the server has been installed
 
-![image](https://user-images.githubusercontent.com/84783787/147372400-9044102f-b8f6-4b06-823f-1210331de86d.png)
+![image](https://user-images.githubusercontent.com/84783787/152526729-a565ffaf-aff9-47bb-8a1a-fe19058fd6ab.png)
 
 Step 8 - Check the server (NGINX) on the terminal
 
